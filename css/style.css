@@ -1,0 +1,130 @@
+body {
+    background-color: rgb(34, 28, 28);
+}
+
+.tudo {
+    background-color: rgb(34, 28, 28);
+    width: 1280px;
+    margin: 0px auto;
+}
+
+header {
+    background-color: black;
+    width: 1280px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding: 30px;
+
+}
+
+ul {
+    color: white;
+    display: flex;
+    gap: 6px;
+    width: 1280px;
+    margin: 0px;
+    margin-left: -39px;
+}
+
+li {
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(225, 163, 3);
+    padding: 8px 20px;
+    border-radius: 1px;
+}
+
+/* MEIO DO SITE */
+
+h1 {
+    color: rgb(225, 163, 3);
+    font-size: medium;
+}
+
+.ft0 {
+    color: white;
+    width: 420px;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.ft1 {
+    color: white;
+    width: 420px;
+    align-items: center;
+    padding-left: 20px;
+    margin-top: 30px;
+}
+
+.ft2 {
+    color: white;
+    width: 420px;
+    align-items: center;
+
+    margin-top: 30px;
+}
+
+.bt-leiamais {
+    color: white;
+    background-color: rgb(225, 163, 3);
+    border-radius: 1px;
+    padding: 8px;
+}
+
+.pai {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+.fim {
+    width: 1150px;
+    color: black;
+    display: flex;
+    margin-top: 30px;
+}
+
+.txt {
+    display: flex;
+    padding: 20px;
+}
+
+.somos {
+    height: 300px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.h1-somos {
+    padding-left: 40px;
+
+}
+
+.aviao {
+    color: white;
+    display: flex;
+    height: 175px;
+}
+.premio {
+    display: flex;
+    color: white;
+}
+
+.paidireita {
+    margin-left: 30px;
+}
+
+footer {
+    background-image: url("../imagem/fundo-footer.jpg");
+    width: 1280px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    height: 200px;
+    padding: 30px;
+    font-size: large;
+}
